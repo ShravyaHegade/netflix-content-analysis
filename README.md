@@ -85,7 +85,20 @@ pip install pandas matplotlib jupyter
 3. Open `Netflix_Dashboard.pbix` in Power BI Desktop for the interactive dashboard.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_overview.png)
 
 ## Charts
-![Charts](images/charts.png)
+
+![Chart 1](images/chart1.png)
+
+![Chart 2](images/chart2.png)
+
+![Chart 3](images/chart3.png)
+
+![Chart 4](images/chart4.png)
+
+![Chart 5](images/chart5.png)
+
+![Chart 6](images/chart6.png)
+
+![Chart 7](images/chart7.png)
